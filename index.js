@@ -1,9 +1,9 @@
 new Vue({
   el: "#app",
   data: {
-    length: 8,
-    useNum: false,
-    useSym: false,
+    length: 12,
+    useNum: true,
+    useSym: true,
     historyArr: [],
     result: '',
     symbols: 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()_+=-',
